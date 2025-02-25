@@ -1,4 +1,4 @@
-package org.example.concurrency.Multithreading.Coding2_DownloadManagerApp;
+package org.example.concurrency.Concurrency.Prats_2_Coding2_DownloadManagerApp;
 
 import java.util.List;
 import java.util.concurrent.ExecutorService;

@@ -1,4 +1,4 @@
-package org.example.concurrency.Multithreading;
+package org.example.concurrency.Concurrency;
 
 public class HelloWorld {
     public static void main(String[] args) {

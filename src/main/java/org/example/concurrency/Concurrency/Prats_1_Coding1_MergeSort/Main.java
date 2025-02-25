@@ -1,10 +1,14 @@
-package org.example.concurrency.Multithreading.Coding1_MergeSort;
+package org.example.concurrency.Concurrency.Prats_1_Coding1_MergeSort;
 
 import java.util.List;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
+
+/*
+    CODING PROBLEM 1 : MERGE SORT
+ */
 
 public class Main {
     public static void main(String[] args) throws ExecutionException, InterruptedException {

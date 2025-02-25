@@ -5,6 +5,6 @@ module org.example.concurrency {
 
     opens org.example.concurrency to javafx.fxml;
     exports org.example.concurrency;
-    exports org.example.concurrency.Multithreading;
-    opens org.example.concurrency.Multithreading to javafx.fxml;
+    exports org.example.concurrency.Concurrency;
+    opens org.example.concurrency.Concurrency to javafx.fxml;
 }

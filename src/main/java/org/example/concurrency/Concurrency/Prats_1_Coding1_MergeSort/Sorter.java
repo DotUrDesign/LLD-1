@@ -1,4 +1,4 @@
-package org.example.concurrency.Multithreading.Coding1_MergeSort;
+package org.example.concurrency.Concurrency.Prats_1_Coding1_MergeSort;
 
 import java.util.ArrayList;
 import java.util.List;
