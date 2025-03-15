@@ -1,4 +1,4 @@
-package org.example.concurrency.Concurrency.Prats_11_Print_Zero_Even_Odd;
+package org.example.concurrency.Concurrency.Prats_11_Print_Zero_Even_Odd_LeetCode;
 
 import java.util.concurrent.Semaphore;
 import java.util.function.IntConsumer;
